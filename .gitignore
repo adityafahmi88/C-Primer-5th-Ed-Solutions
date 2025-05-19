@@ -1,0 +1,29 @@
+# Ignore VSCode settings
+.vscode/
+
+# Ignore C/C++ build artifacts
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.so
+*.so.*
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+a.out
+*.stackdump
+
+# Ignore build directories
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+
+# Ignore macOS system files
+.DS_Store
