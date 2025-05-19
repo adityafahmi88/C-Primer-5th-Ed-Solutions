@@ -100,8 +100,8 @@ The main distinction between single-lined and paired comments is that paried com
 To use a class we need to include its header files (usually ends is `.h` file or less commonly `.H, .hpp, .hxx`)
 
 ### Member functions
-A member function is a function that is defined as part of a class, and it is used like so, `classType.memberName()`. Where the dot operator is used to access the member function. 
+A member function is a function that is defined as part of a class, and it is used like so, `object.memberName()`. Where the dot operator is used to access the member function. 
 
 ## Common Pitfalls:
 1. Nested paired comments. 
-2. `=` is for assignment, whule `==` for equality. 
+2. `=` is for assignment, while `==` for equality. 
